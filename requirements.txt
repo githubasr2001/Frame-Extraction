@@ -1,0 +1,8 @@
+yt-dlp 
+opencv-python 
+selenium
+selenium
+yt-dlp
+opencv-python
+webdriver-manager
+flask
